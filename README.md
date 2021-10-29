@@ -4,7 +4,7 @@ We have two challenges.
   - Clone this repo
   - Open the ./position-elements/index.html file in a text editor and browser
   - Within the `<style></style>` tags of index.html alter the css so that it
-    matches the following image
-    ![](./images/position-elments-goal)
+    matches the following image. You may not alter the HTML.
+    ![](./images/position-elments-goal.png)
 
 2. You can solve this [Leetcode challenge](https://leetcode.com/problems/two-sum/)
